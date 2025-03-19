@@ -10,6 +10,10 @@
 
 #### Changes from baseline
 
+**- We add formatter on previous version ([GCCL-Medical-LLM-Flowertune](https://github.com/gachon-CCLab/GCCL-Medical-LLM-FlowerTune))**
+
+**- Formatter has function to add Llama 3 Style.**
+
 <pyproject.toml>
 
 `model.name = "ContactDoctor/Bio-Medical-Llama-3-8B"`
