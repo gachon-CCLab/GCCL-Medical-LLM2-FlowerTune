@@ -12,7 +12,7 @@
 
 **- We add formatter on previous version ([GCCL-Medical-LLM-Flowertune](https://github.com/gachon-CCLab/GCCL-Medical-LLM-FlowerTune))**
 
-**- Formatter has function to add Llama 3 Style.**
+**- Formatter has function to add Llama 3 Style on FlowerTuneDataset.**
 
 <pyproject.toml>
 
