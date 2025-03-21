@@ -47,7 +47,7 @@ python eval.py \
 --run-name= \ # RUN NAME
 --batch-size=16 \
 --quantization=4 \
---datasets=pubmedqa,medmcqa,medqa
+--datasets=pubmedqa,medmcqa,medqa,careqa
 ```
 
 #### Path to check evaluation results
