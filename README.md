@@ -5,8 +5,8 @@
 ### Evaluation for Medical challenge (Result of 10th checkpoint out of 10 total rounds)
 
 |        | PubMedQA | MedMCQA | MedQA | CareQA |  Avg  |
-| :-----: | :------: | :-----: | :---: | ------ | :---: |
-| Acc (%) |  65.80  |  60.38  | 68.57 | 53.76  | 62.12 |
+| :-----: | :------: | :-----: | :---: | :----: | :---: |
+| Acc (%) |  65.80  |  60.38  | 68.57 | 53.76 | 62.12 |
 
 #### Changes from baseline
 
